@@ -6,7 +6,8 @@ You can send me a DM on [Bluesky](https://bsky.app/profile/senilefelines.bsky.so
 
 - Retro computing and gaming, esp. A2600, C64, NES, PCE, SMD
 - Obscure/interesting programming languages, esp. Forth, Common Lisp, Smalltalk
-- 6502 Assembly language  
+- 6502 Assembly language
+- Chess
 
 <!---
 r-moeritz/r-moeritz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
